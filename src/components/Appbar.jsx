@@ -51,7 +51,7 @@ function NavScrollExample() {
           <Navbar.Collapse id="navbarScroll">
             <Nav
               className="me-auto my-2 my-lg-0"
-              style={{ height: "65px" }}
+              style={{ height: "75px" }}
               navbarScroll
             >
               <NavLink className="nav-link" to="/">
